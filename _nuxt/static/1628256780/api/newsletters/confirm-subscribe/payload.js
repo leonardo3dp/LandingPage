@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/api/newsletters/confirm-subscribe", {data:[{}],fetch:{},mutations:void 0});
